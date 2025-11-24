@@ -11,7 +11,7 @@ const Hero = () => {
             <span className='text-xl'>Full Stack Developer</span>
         </div>
         <div>
-            <img src="/public/me.png" alt="Profile Pic" className='w-2xs border-2 rounded-full opacity-90'/>
+            <img src="/me.png" alt="Profile Pic" className='w-2xs border-2 rounded-full opacity-90'/>
         </div>
       </div>
       <div className=''>
