@@ -6,7 +6,7 @@ const Projects = () => {
     <div className='bg-red-400 w-4/5 mx-auto p-8 rounded-2xl border-4 border-black shadow-[10px_10px_0px_black]'>
       <div className='flex justify-between'>
         <h2 className='text-4xl'>Projects</h2>
-        <a className='bg-red-300 p-2 rounded-full border-2 hover:scale-105 transition' href="/src/assets/Resume.pdf" target='_blank'>Resume</a>
+        <a className='bg-red-300 p-2 rounded-full border-2 hover:scale-105 transition' href="/Resume.pdf" target='_blank'>Resume</a>
       </div>
       <div className='bg-red-300 m-2 p-4 rounded-4xl border-2 hover:scale-102 transition'>
         <h3 className='text-2xl hover:underline transition'><a href="https://drop.xo.je/" target='_blank'>IoT Based Smart Leak Detection System</a></h3>
